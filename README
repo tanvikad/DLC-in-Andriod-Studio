@@ -1,0 +1,5 @@
+Trying to run a stand-alone DLC in Andriod Studio. 
+
+Steps to create the project are linked: https://colab.research.google.com/drive/1fEE7RRuFPksq5R7irMgN_trlb3Y1QCvj?usp=sharing
+
+Add the snpe-release.arr into ./snpe-release folder
